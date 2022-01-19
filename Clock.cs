@@ -25,7 +25,7 @@ namespace Assignment3
       );
 
       // The event we publish
-      public event SecondChangeHandler SecondChange;
+      public event SecondChangeHandler? SecondChange;
 
       // The method which fires the Event
       protected void OnSecondChange(
