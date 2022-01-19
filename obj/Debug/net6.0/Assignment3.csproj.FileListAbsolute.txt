@@ -1,0 +1,15 @@
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\Assignment3.exe
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\Assignment3.dll
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\ref\Assignment3.dll
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.dll
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+C:\Users\Pc Market\Desktop\Nashtech\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
